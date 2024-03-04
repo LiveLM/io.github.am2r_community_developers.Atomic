@@ -1,59 +1,59 @@
 [
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/atksharp/3.24.24.38/atksharp.3.24.24.38.nupkg",
-        "sha512": "46efbcd406d58a958b81e30b1ac466f08023e72eb36305cdcb17ed3e5a5e1844d44be8852add83ecff887e70dd7fc84f2e47f3aa6996728c40144788a7203adf",
+        "url": "https://api.nuget.org/v3-flatcontainer/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg",
+        "sha512": "23252633a3271610b68b0a80d33a513880c0dd8a9bfec1de07f6c53cffaa48a0339e261469cebc3c98a46a0c09e8e42a9ce4ed05ed153bdbcc1d3676be4eea22",
         "dest": "nuget-sources",
-        "dest-filename": "atksharp.3.24.24.38.nupkg"
+        "dest-filename": "atksharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/cairosharp/3.24.24.38/cairosharp.3.24.24.38.nupkg",
-        "sha512": "30294df0e349b0ba0b0191494e6f6de9bcda0471c95ea82b031a5cc0f966678c99527b16a5daf3da085aa2fa12f86ccb7633b8abb4b77dab62611c22a2e966f8",
+        "url": "https://api.nuget.org/v3-flatcontainer/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg",
+        "sha512": "aee6e0155a56ed7b263ece763af9aafb2af806e8aa8997dcfba4c8d1e498d021590e8630b35356b4ddb8491f884932eeeef495081a86f76b2033511d9e21a70a",
         "dest": "nuget-sources",
-        "dest-filename": "cairosharp.3.24.24.38.nupkg"
+        "dest-filename": "cairosharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/eto.forms/2.8.2/eto.forms.2.8.2.nupkg",
-        "sha512": "8cb2e413c12e602a737d725aafa233b0776d5b2ed5a55b8a85adcfd126ef9696a8eb1d3a42b9e70e35979de4c0176851da2bf930d10cbcdc78a3a2503d9df548",
+        "url": "https://api.nuget.org/v3-flatcontainer/eto.forms/2.8.3/eto.forms.2.8.3.nupkg",
+        "sha512": "ec612bd926c30516af962bbe0524ca61c962214b7c14ae2ce7b2d94f4fc160e6dec4e2e225c75229be11f1e297a33861375a5de041a53b85d7664bb1b39627fd",
         "dest": "nuget-sources",
-        "dest-filename": "eto.forms.2.8.2.nupkg"
+        "dest-filename": "eto.forms.2.8.3.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/eto.platform.gtk/2.8.2/eto.platform.gtk.2.8.2.nupkg",
-        "sha512": "fbfd14cb64d9671b76c03b9f2b91e5f2dc8925cd3b5cf589dd6b988837f602d3fc67ba288b8f0fb36b9961b75a8a98423e0cbbee49f5f2a64cb5b71dbc8353e9",
+        "url": "https://api.nuget.org/v3-flatcontainer/eto.platform.gtk/2.8.3/eto.platform.gtk.2.8.3.nupkg",
+        "sha512": "b059e6e301ec4a8fd4d198de9643a4c186134d12983a4562b02032ccb993ed0ebb5369f4652c757ec9de199a2a9b0e10b15c721ea78914008e144789d63a71a4",
         "dest": "nuget-sources",
-        "dest-filename": "eto.platform.gtk.2.8.2.nupkg"
+        "dest-filename": "eto.platform.gtk.2.8.3.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gdksharp/3.24.24.38/gdksharp.3.24.24.38.nupkg",
-        "sha512": "f8acc3ae6a3212a9ddc60d17cbc6bee9220624b3a25848acbaf716a3fe72390c15a0af09ca34040beabad361fcdd84901919b5ba2fbc8da8c00488fd616530bb",
+        "url": "https://api.nuget.org/v3-flatcontainer/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg",
+        "sha512": "c0ee9c1b39faaebd244d0bd2cd717f892f790603d46eb443bf708eb4babe3be065e7d14c7276c742710c6e51b1418c7f7f6050def3852aaac1c66061850d7207",
         "dest": "nuget-sources",
-        "dest-filename": "gdksharp.3.24.24.38.nupkg"
+        "dest-filename": "gdksharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/giosharp/3.24.24.38/giosharp.3.24.24.38.nupkg",
-        "sha512": "3a71150688e94393adc40b48975a17f3ac737a0984773aad218b940a8f934e7006996ecf813ffec82cc66705e753dd88cb905f587ab3fc7dc06ab03a76fd25f6",
+        "url": "https://api.nuget.org/v3-flatcontainer/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg",
+        "sha512": "678d396bf6ecea17242b9fdf0a1736a8dc10004f9f5f137c78036a9da2e9f3386025180e776540a88b2c935da3d7ba0c158434117c5202b8167d2d2b184c0109",
         "dest": "nuget-sources",
-        "dest-filename": "giosharp.3.24.24.38.nupkg"
+        "dest-filename": "giosharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/glibsharp/3.24.24.38/glibsharp.3.24.24.38.nupkg",
-        "sha512": "b7eb31edae955673892e12408420a62641d95f65b8b8efb9e04b9aa9c0ed36d07453ed9491abfbf90e10f6a8718e2e1e4e8f358f1fe2a4dfd162010aabb7a496",
+        "url": "https://api.nuget.org/v3-flatcontainer/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg",
+        "sha512": "988b7f7292fde9c86d38ba87fd707c7f47384235b478509adf4ad214a6278d32ceab8be4ed7f92216e63ff123a5ad481e258e936e5ebbef016fb93822a841ace",
         "dest": "nuget-sources",
-        "dest-filename": "glibsharp.3.24.24.38.nupkg"
+        "dest-filename": "glibsharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gtksharp/3.24.24.38/gtksharp.3.24.24.38.nupkg",
-        "sha512": "51915872aaa11c200aebb62e0969471b5a8a9c5a57f449b9b7ead0dc0c4291caf271570ab5262c78da416304f5ba75cab48823ab1ee8a3752233edb843c1bac0",
+        "url": "https://api.nuget.org/v3-flatcontainer/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg",
+        "sha512": "fc5ba4f0f38e68838fcd27350ea16451a6d6128b94bd3d8c639b4b8c81e3d14c4cf10be08056ebbf609accb3c7eacd3e9c342c1c63404954a71ba3587475d955",
         "dest": "nuget-sources",
-        "dest-filename": "gtksharp.3.24.24.38.nupkg"
+        "dest-filename": "gtksharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
@@ -99,10 +99,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/pangosharp/3.24.24.38/pangosharp.3.24.24.38.nupkg",
-        "sha512": "5edc84db5b815d3fe8162b39f6c6f1f44107e216dfaf63e2c5677ca4f7d2a552558a51e6dba9910820358bbc70fe6aef58321e691271095cac2c98dad29a7f3a",
+        "url": "https://api.nuget.org/v3-flatcontainer/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg",
+        "sha512": "37d65c204410485be4f144d7115af80402effca833b37b3d7b6f58e2d3f20d6f232c6299409da748b4ef9aff63dfc2dfaaeb3a5b6b02181edf4e5017ace22d68",
         "dest": "nuget-sources",
-        "dest-filename": "pangosharp.3.24.24.38.nupkg"
+        "dest-filename": "pangosharp.3.24.24.95.nupkg"
     },
     {
         "type": "file",
